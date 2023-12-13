@@ -7,8 +7,10 @@ const Sidebar = () => {
     <div className='sidebar'>
         <Navbar />
         <Search />
+        
     </div>
   )
+
 }
 
 export default Sidebar
